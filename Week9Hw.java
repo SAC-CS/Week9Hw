@@ -16,3 +16,5 @@ public class Week9Hw {
 	}
 
 }
+
+// HI Oscar...The computer guess a number... the user should be prompted to guess odd/even

@@ -16,3 +16,4 @@ public class Week9Hw {
 	}
 
 }
+// Please consider doing I/O from the main program, not the class.
